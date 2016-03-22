@@ -2,7 +2,7 @@
 # Nasqueron  - MySQL image
 #
 
-FROM mysql
-MAINTAINER Sébastien Santoro aka Dereckson <dereckson+nasqueron-docker@espace-win.org>
+FROM hypriot/rpi-mysql 
+MAINTAINER Kaliiixx <modepadu95@riseup.net>
 
 COPY files /etc/mysql/
