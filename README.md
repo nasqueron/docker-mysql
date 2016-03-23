@@ -26,4 +26,3 @@ innodb_buffer_pool_size=410M
 Pick a root password and a name, then run it: 
 
     docker run -d -e MYSQL_ROOT_PASSWORD=HZQ0Gqz7P9L5RT7adqNPivHa0obX05t --name acquisitariat nasqueron/mysql
-# docker-arm-mysql-phabricator
